@@ -1,0 +1,22 @@
+{
+  "name": "fundamentos-node",
+  "version": "1.0.0",
+  "description": "curso de nodejs",
+  "main": "hola-mundo.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node modulos_node/modulo_HTTP/index.js",
+    "express": "node express/index.js"
+  },
+  "keywords": [
+    "node",
+    "curso",
+    "español"
+  ],
+  "author": "willy",
+  "license": "ISC"
+}
